@@ -1,1 +1,1 @@
-# main-media-seattle-cities
+# detroit-main
